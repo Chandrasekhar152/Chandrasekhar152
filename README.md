@@ -75,16 +75,16 @@
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Event Portal** | Displays all college events in one place | HTML, CSS, JS |
-| **PowerBI Dashboard** | Visualizes MySQL data for insights | PowerBI, MySQL |
-| **Chatbot App** | Simple chatbot using Python | Python, Tkinter |
+| Project              | Description                               | Tech                   |
+|----------------------|-------------------------------------------|------------------------|
+| **Event Portal**     | Displays all college events in one place  | HTML, CSS, JS          |
+| **PowerBI Dashboard**| Visualizes MySQL data for insights        | PowerBI, MySQL         |
+| **Chatbot App**      | Simple chatbot using Python               | Python, Tkinter        |
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chandrasekhar152/Chandrasekhar152/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://Chandrasekhar152.github.io/.github/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>

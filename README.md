@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Chandrasekhar152">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chandrasekhar;B.Tech+3rd+Year+Student;GDG+Lead+%7C+Tech+Enthusiast;PowerBI+%7C+Python+%7C+Web+Development;Welcome+to+my+GitHub+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chandrasekhar;B.Tech+4th+Year+Student;GDG+Lead+%7C+Tech+Enthusiast;PowerBI+%7C+Python+%7C+Web+Development;Welcome+to+my+GitHub+profile!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,9 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
@@ -54,3 +56,7 @@
 - GitHub: [github.com/Chandrasekhar152](https://github.com/Chandrasekhar152)
 
 ---
+
+<p align="center">
+  <img src="https://github.com/Chandrasekhar152/Chandrasekhar152/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>

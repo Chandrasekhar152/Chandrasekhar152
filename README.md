@@ -51,8 +51,6 @@
 
 ---
 
-
-
 ### 📫 Connect with Me:
 - LinkedIn: [linkedin.com/in/chandrasekhar152](https://www.linkedin.com/in/chandrasekhar152/)
 - GitHub: [github.com/Chandrasekhar152](https://github.com/Chandrasekhar152)
@@ -60,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Chandrasekhar152/Chandrasekhar152/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Chandrasekhar152/Chandrasekhar152/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>

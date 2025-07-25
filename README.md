@@ -1,81 +1,88 @@
+<!-- ✨ Typing Animation -->
 <p align="center">
   <a href="https://github.com/Chandrasekhar152">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chandrasekhar;B.Tech+4th+Year+Student;GDG+Lead+%7C+Tech+Enthusiast;PowerBI+%7C+Python+%7C+Web+Development;Welcome+to+my+GitHub+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Chandrasekhar!;4th+Year+B.Tech+Student+%7C+Tech+Lead;PowerBI+%7C+Python+%7C+Web+Developer;Open+Source+Contributor+%7C+GDG+Lead;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Chandrasekhar</h1>
-<h3 align="center">A passionate tech enthusiast & B.Tech 4th-year student</h3>
-
+<!-- 🧑‍💻 Lottie Dev Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chandrasekhar152&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://lottie.host/160e824c-290b-42b0-82c3-8b90233f2855/1lFK3VTu9s.json" width="300px">
 </p>
 
 ---
 
-### 🚀 Tech Stack & Tools:
-
+<h1 align="center">🚀 About Me</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,bootstrap,mysql,git,github,vscode,figma,postman,matlab,numpy,pandas" />
+  <img src="https://media.giphy.com/media/XHAv3GveJpHzK/giphy.gif" width="50"/> <br>
+  I'm Chandrasekhar, a final year B.Tech student specializing in AI & ML.<br>
+  I love turning ideas into reality using tech. From building dashboards to organizing events – I'm always exploring!
 </p>
 
 ---
 
-### 🎯 GitHub Analytics:
+### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandrasekhar152&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,mysql,git,github,postman,vscode,figma,pandas,numpy,powershell&perline=10" />
+</p>
+
+---
+
+### 🧩 GitHub Stats & Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandrasekhar152&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chandrasekhar152&theme=radical&hide_border=true" width="45%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandrasekhar152&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrasekhar152&theme=tokyonight" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrasekhar152&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrasekhar152&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
 
-### 🏆 Achievements:
+### 🏆 Achievements
 
-- ✅ Internships at **42Learn** and **GeeksforGeeks**
-- 📊 Created **PowerBI Dashboards** using **MySQL**
-- 🗣️ Conducted sessions on **Google Solution Challenge** & **Prompt Engineering**
-- 💡 Leader of **GDG On Campus @ PACE**
-- 🎉 Organized **GDG WoW 2025** at GITAM University
+- 👨‍💻 Interned at **42Learn** and **GeeksforGeeks**
+- 📊 Built **PowerBI Dashboards** using **MySQL**
+- 🗣 Speaker at **Google Solution Challenge** & **Prompt Engineering**
+- 🎓 GDG On Campus Lead @ PACE
+- 🌟 Organized **GDG WoW 2025 @ GITAM Vizag**
 
 ---
 
-### 🔗 Connect With Me:
+### 🧠 Projects
+
+| 💡 Project | 📝 Description | ⚙ Tech |
+|-----------|----------------|--------|
+| **Event Portal** | All college events in one place | HTML, CSS, JS |
+| **PowerBI Dashboard** | MySQL data visualizations | PowerBI, MySQL |
+| **Python Chatbot** | GUI chatbot for FAQs | Python, Tkinter |
+| **Portfolio Website** | Personal portfolio | HTML, CSS, JS |
+| **Student Result System** | Admin + student login for results | Python, Flask, SQLite |
+
+---
+
+### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandrasekhar152/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Chandrasekhar152" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://linkedin.com/in/chandrasekhar152"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:chandrasekhar152@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Chandrasekhar152"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🎬 Lottie Animation:
+### 🐍 GitHub Activity Snake
 
 <p align="center">
-  <img src="https://lottie.host/1bc02e67-2fa4-4641-83e7-9a6adbc91642/bkBR4CHmNw.json" width="300px">
+  <img src="https://raw.githubusercontent.com/Chandrasekhar152/Chandrasekhar152/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake:
+### 🎬 GitHub Trophy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chandrasekhar152/Chandrasekhar152/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandrasekhar152&theme=radical&no-bg=true&margin-w=10&margin-h=10" />
 </p>
-
----
-
-### 🌊 Visual Footer Divider:
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-

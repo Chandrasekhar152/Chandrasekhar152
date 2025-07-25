@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Chandrasekhar152">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chandrasekhar;B.Tech+3rd+Year+Student;GDG+Lead+%7C+Tech+Enthusiast;PowerBI+%7C+Python+%7C+Web+Development;Welcome+to+my+GitHub+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Chandrasekhar</h1>
 <h3 align="center">A passionate tech enthusiast & B.Tech 3rd-year student</h3>
 

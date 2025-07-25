@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandrasekhar</h1>
-<h3 align="center">A passionate tech enthusiast & B.Tech 3rd-year student</h3>
+<h3 align="center">A passionate tech enthusiast & B.Tech 4th-year student</h3>
 
 ---
 

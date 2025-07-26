@@ -73,13 +73,11 @@
 
 ---
 
-
 ### 📊 My Coding Activity (WakaTime)
 
 <p align="center">
-  <img src="PASTE_YOUR_WAKATIME_GIF_URL_HERE" alt="WakaTime Animated Stats" />
+  <img src="https://wakatime.com/share/@Chandrasekhar152/ea900a11-7999-46e3-b7e5-dc39deaaa56a.svg" alt="WakaTime Stats" />
 </p>
-
 
 ### 🏆 Achievements
 

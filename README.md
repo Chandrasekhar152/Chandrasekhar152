@@ -53,6 +53,10 @@
 
 ---
 
+
+
+
+
 ### 🏆 Achievements
 
 - ✅ Completed internships at **42Learn** and **GeeksforGeeks**
@@ -63,6 +67,12 @@
 
 ---
 
+### 📈 Recent GitHub Activity
+
+<p align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=Chandrasekhar152&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -72,6 +82,8 @@
 </p>
 
 ---
+
+
 
 ### 📂 Featured Projects
 

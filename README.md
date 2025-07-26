@@ -60,6 +60,9 @@
   <a href="https://www.linkedin.com/in/sadhu-chandra-sekhar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+You can see all my coding projects on WakaTime: [My WakaTime Projects](https://wakatime.com/@Chandrasekhar152)
+<a href="https://wakatime.com/badge/user/592006b6-de19-4137-ad5b-4d016c89f2da/project/ae7ff7cf-5707-4829-8fb5-d21863df91f5"><img src="https://wakatime.com/badge/user/592006b6-de19-4137-ad5b-4d016c89f2da/project/ae7ff7cf-5707-4829-8fb5-d21863df91f5.svg" alt="wakatime"></a>
+
 ### 🧑‍💻 GitHub Stats
 
 <p align="center">

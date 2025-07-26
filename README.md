@@ -59,7 +59,7 @@
 - 📊 Created dashboards using **PowerBI + MySQL**
 - 🎤 Conducted sessions on **Google Solution Challenge**, **Prompt Engineering**
 - 🚀 Leader of **GDG On Campus @ PACE**
-- 🎉 Organizer of **GDG WoW 2025 @ GITAM**
+
 
 ---
 
@@ -79,7 +79,7 @@
 |-----------------------|-------------------------------------------|--------------------|
 | **Event Portal**      | Displays all college events in one place  | HTML, CSS, JS      |
 | **PowerBI Dashboard** | Visualizes MySQL data for insights        | PowerBI, MySQL     |
-| **Chatbot App**       | Simple chatbot using Python               | Python, Tkinter    |
+| **Chatbot App**       | Simple chatbot using Python               | Python             |
 
 ---
 

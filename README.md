@@ -81,6 +81,11 @@ You can see all my coding projects on WakaTime: [My WakaTime Projects](https://w
 <p align="center">
   <img src="https://wakatime.com/share/@Chandrasekhar152/ea900a11-7999-46e3-b7e5-dc39deaaa56a.svg" alt="WakaTime Stats" />
 </p>
+ <a href="https://wakatime.com/share/@Chandrasekhar152/0d687903-ec7e-430f-ad22-d202b4519301.svg"><img src="https://wakatime.com/share/@Chandrasekhar152/0d687903-ec7e-430f-ad22-d202b4519301.svg" alt="wakatime project 2"></a>
+</p>
+<p align="center">
+  View my full WakaTime profile: <a href="https://wakatime.com/@Chandrasekhar152" target="_blank">https://wakatime.com/@Chandrasekhar152</a>
+</p>
 
 ### 🏆 Achievements
 

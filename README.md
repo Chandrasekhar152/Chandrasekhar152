@@ -10,7 +10,7 @@
   <img src="https://i.postimg.cc/pTxMVbSJ/myprofile.jpg" width="300px">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sadhu Chandra Sekhar</h1>
+<h1 align="center">Hello 👋, I'm Sadhu Chandra Sekhar</h1>
 <h3 align="center">A passionate tech enthusiast & B.Tech 4th-year student</h3>
 
 ---

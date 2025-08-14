@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">Hello 👋, I'm Sadhu Chandra Sekhar</h1>
-<h3 align="center">A passionate Tech Enthusiast & B.Tech 4th-year student</h3>
+<h3 align="center">A Passionate Tech Enthusiast & B.Tech 4th-year student</h3>
 
 ---
 

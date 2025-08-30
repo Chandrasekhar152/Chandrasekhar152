@@ -92,7 +92,7 @@ You can see all my coding projects on WakaTime: [My WakaTime Projects](https://w
 - ✅ Completed internships at **42Learn** and **GeeksforGeeks**
 - 📊 Created dashboards using **PowerBI + MySQL**
 - 🎤 Conducted sessions on **Google Solution Challenge**, **Prompt Engineering**
-- 🚀 Technical lead at **GDG On Campus @ PACE**
+- 🚀 Technical lead at **GDG On Campus @ PACE 2024-2025**
 
 
 ---
